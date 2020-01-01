@@ -21,7 +21,8 @@ BUT! remember change the information with your own telegrambot or just replace i
 we make some photoframes by our own,of course you can do it yourself.Just replace the .png files in folder "frame" with the same name.And we use the size 200x200
 
 ## Team members and jobs assign
-林柏宇https://github.com/SS108213517
+陳奕良https://github.com/YiLiangChen
 
+林柏宇https://github.com/SS108213517
 
 張尹賓https://github.com/b1718192002
