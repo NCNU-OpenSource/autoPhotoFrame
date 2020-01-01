@@ -6,13 +6,12 @@ Its' a project during LSA lesson,a RaspberryPi based thing. By using webcam take
 git clone https://github.com/YiLiangChen/autoPhotoFrame.git
 ```
 2.run those code in following sequence：
-```
-fswebcam human.png ( make sure your webcam linked to your RaspberryPi and ready for work ,this command will take a photo)
-```
-```
-detectface.py ( it will find out human's face in photo and resize it)
-```
-```
-merge.py (it will put the face with photoframe together then you can see the final photo in your folder)
-```
-at last ```bot.py```
+
+```fswebcam human.png``` ( make sure your webcam linked to your RaspberryPi and ready for work ,this command will take a photo)
+
+```detectface.py``` ( it will find out human's face in photo and resize it)
+
+```merge.py``` (it will put the face with photoframe together then you can see the final photo in your folder)
+
+at last ```bot.py``` (it will send the photo to telegram)
+BUT! remember change the information with your own telegrambot or just replace it with your telegrrambot's control code. 
