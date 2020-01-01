@@ -14,4 +14,5 @@ git clone https://github.com/YiLiangChen/autoPhotoFrame.git
 ```merge.py``` (it will put the face with photoframe together then you can see the final photo in your folder)
 
 at last ```bot.py``` (it will send the photo to telegram)
+
 BUT! remember change the information with your own telegrambot or just replace it with your telegrrambot's control code. 
