@@ -9,9 +9,9 @@ git clone https://github.com/YiLiangChen/autoPhotoFrame.git
 
 ```fswebcam human.png``` ( make sure your webcam linked to your RaspberryPi and ready for work ,this command will take a photo)
 
-```detectface.py``` ( it will find out human's face in photo and resize it)
+```detectface.py```（它會在照片中找出人的臉並調整其大小）
 
-```merge.py``` (it will put the face with photoframe together then you can see the final photo in your folder)
+```merge.py```（它將把帶有相框的臉放在一起，然後您可以在文件夾中看到最終照片）
 
 at last ```bot.py``` (it will send the photo to telegram)
 
@@ -21,4 +21,5 @@ BUT! remember change the information with your own telegrambot or just replace i
 we make some photoframes by our own,of course you can do it yourself.Just replace the .png files in folder "frame" with the same name.And we use the size 200x200
 
 ## Team members and jobs assign
-林柏宇 https://github.com/SS108213517
+林柏宇https://github.com/SS108213517
+張尹賓
