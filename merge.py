@@ -8,7 +8,7 @@ imageA = imageA.convert('RGBA')
 widthA , heightA = imageA.size
 
 
-imageB = Image.open('/home/pi/autophoto/frame'+rd[:1]+'.png')
+imageB = Image.open('/home/pi/autophoto/frame/frame'+rd[:1]+'.png')
 imageB = imageB.convert('RGBA')
 widthB , heightB = imageB.size
 
