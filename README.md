@@ -22,12 +22,11 @@ we make some photoframes by our own,of course you can do it yourself.Just replac
 
 ## Team members and jobs assign
 陳奕良https://github.com/YiLiangChen
-- system design
+- system design 
 - coding
-- document edit
-
+- 
 林柏宇https://github.com/SS108213517
-- system design
-- coding
 
 張尹賓https://github.com/b1718192002
+- assist Telegram bot api
+-Literature content
