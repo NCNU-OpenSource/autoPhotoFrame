@@ -29,7 +29,6 @@ we make some photoframes by our own,of course you can do it yourself.Just replac
 
 張尹賓https://github.com/b1718192002
 - assist Telegram bot api
-
--Literature content
+Literature content
 
 
